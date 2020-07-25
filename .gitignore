@@ -1,6 +1,6 @@
 # Generated files
 *.zht.md
-static/txt/zht
+static/txt/zht/*.txt
 content/collections/
 shota
 public
