@@ -62,7 +62,7 @@ def split_lines(lines):
     return info_lines, lines[len(info_lines) + 2:]
 
 if __name__ == "__main__":
-    for txt in glob.glob("static/txt/*.txt"):
+    for txt in glob.glob("static/txt/zh/*.txt"):
         with open(txt) as file:
             lines = file.readlines()
             info_lines, page_lines = split_lines(lines)

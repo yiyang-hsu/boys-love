@@ -3,32 +3,17 @@ languageCode = "zh-cn"
 defaultContentLanguage = "zh"
 title = "Boy's Love"
 theme = "HN-hugo"
-#enableGitInfo = true
+enableGitInfo = true
 disableHugoGeneratorInject = true
 
 [languages]
   [languages.zh]
     weight = 2
-    languageName = "繁體"
+    languageName = "简体"
   [languages.zht]
     weight = 1
-    languageName = "简体"
-    [languages.zht.params]
-    links = [
-      { name="主頁", url = "/"},
-      { name="小說", url = "/collections/"},
-      { name="隨筆", url = "/archives/"},
-      { name="Telegram 頻道", url = "https://t.me/normal_distribution"},
-    ]
+    languageName = "繁體"
+
 
 [imaging]
 quality = 100
-
-[params]
-links = [
-  { name="主页", url = "/"},
-  { name="小说", url = "/collections/"},
-  { name="随笔", url = "/archives/"},
-  { name="Telegram 频道", url = "https://t.me/normal_distribution"},
-]
-
