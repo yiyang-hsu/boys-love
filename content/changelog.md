@@ -2,6 +2,7 @@
 title: 网站更新日志
 ---
 
+- 2021.05.01 移除所有动态内容
 - 2020.07.25 开放静态生成部分[源代码](https://github.com/yiyang-hsu/boys-love)
 - 2020.07.24 公开图片数据 meta 信息仓库 [meta-shota](https://github.com/yiyang-hsu/meta-shota)
 - 2020.07.24 开放上传管理及页面展示 [shota-server](https://github.com/yiyang-hsu/shota-server) 源代码
@@ -30,4 +31,3 @@ title: 网站更新日志
 本站源代码托管于 [GitHub](https://github.com/yiyang-hsu/boys-love).
 
 本站主题：[HN-hugo](https://github.com/yiyang-hsu/HN-hugo)
-
